@@ -1,0 +1,24 @@
+body {
+    background-image: url('https://www.udenar.edu.co/recursos/wp-content/uploads/2023/06/UDENAR-PERIODICO-11-years-red-semilleros-investigacion.jpg');
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+  }
+  
+  /* Estilos para el footer */
+  footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  /* Estilos para las tarjetas dentro del footer */
+  footer .card {
+    width: 18rem;
+    margin: 10px;
+  }
+  
